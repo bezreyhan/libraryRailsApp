@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tile: MyString
+  author_first: MyString
+  author_last: MyString
+  dd: 1.5
+
+two:
+  tile: MyString
+  author_first: MyString
+  author_last: MyString
+  dd: 1.5
